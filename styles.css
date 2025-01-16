@@ -116,3 +116,13 @@ footer {
     font-size: 0.9rem;
     color: #777;
 }
+
+ul {
+    list-style-type: disc; /* Adds bullet points */
+    padding-left: 20px;    /* Optional: adds padding for better spacing */
+}
+
+li {
+    font-size: 1.1rem;     /* Adjust font size of list items */
+    margin-bottom: 10px;   /* Optional: add space between list items */
+}
